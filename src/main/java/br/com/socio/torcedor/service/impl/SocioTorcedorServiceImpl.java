@@ -41,7 +41,6 @@ public class SocioTorcedorServiceImpl implements SocioTorcedorService {
         }
 
         LOGGER.info("Cadastrando Sócio Torcedor : {}", socioTorcedor);
-
         return socioTorcedorRepository.save(socioTorcedor);
 
     }
