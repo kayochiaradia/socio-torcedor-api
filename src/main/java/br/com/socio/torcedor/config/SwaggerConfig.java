@@ -29,7 +29,7 @@ public class SwaggerConfig {
 
     private ApiInfo metaData() {
         return new ApiInfoBuilder()
-                .title("Campanha")
+                .title("Socio Torcedor")
                 .description("\"Spring Boot REST API\"")
                 .version("1.0.0")
                 .license("Apache License Version 2.0")
