@@ -24,4 +24,4 @@ Projeto que fornecer mecanismos (APIs) para INCLUIR, CONSULTAR, ATUALIZAR, DELET
 ## Informações sobre o Projeto
 
 * O caminho base para as os endpoins é : /api/v1
-* Porta da aplicação :8080
+* Porta da aplicação :9880
